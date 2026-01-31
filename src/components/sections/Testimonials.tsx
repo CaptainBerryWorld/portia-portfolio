@@ -4,21 +4,21 @@ import { Quote } from "lucide-react";
 const testimonials = [
   {
     quote: "Portia has been an exceptional team member at Golden Angels Travel Consultancy. Her dedication to client satisfaction, attention to detail in documentation processing, and ability to handle complex travel arrangements have made her invaluable to our operations.",
-    name: "Madam Lawrencia Boakye",
+    name: "Lawrencia Boakye",
     role: "Manager",
     company: "Golden Angels Travel Consultancy",
   },
   {
-    quote: "Portia managed our team's complex scheduling across 3 time zones with exceptional accuracy and professionalism. Her proactive approach meant issues were resolved before I even knew they existed.",
-    name: "Sarah Mitchell",
-    role: "VP of Operations",
-    company: "Tech Startup",
+    quote: "Portia consistently delivered exceptional customer service, handling guest inquiries and complaints with professionalism and a warm demeanor. Her ability to stay calm under pressure and ensure customer satisfaction made her a standout team member.",
+    name: "Lord Hagan",
+    role: "Supervisor",
+    company: "KFC Ghana (Mascó Food Services Limited)",
   },
   {
     quote: "Working with Portia transformed how I approach my workday. Her attention to detail and systems-thinking have made me significantly more productive and less stressed.",
-    name: "Marcus Johnson",
-    role: "Founder & CEO",
-    company: "Consulting Firm",
+    name: "Nylah Lenoir",
+    role: "Operations Manager",
+    company: "E-commerce Client",
   },
 ];
 
